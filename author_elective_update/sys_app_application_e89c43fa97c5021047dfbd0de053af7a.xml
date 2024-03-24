@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_58872_needit.needit_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-24 01:27:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e89c43fa97c5021047dfbd0de053af7a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Needit sous menu</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_e89c43fa97c5021047dfbd0de053af7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-24 01:31:02</sys_updated_on>
+        <title>Needit sous menu</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1c3ca6dfdb2e7d1405ef172913961991</instance_id>
+        <instance_name>dev220641</instance_name>
+        <name>sys_app_application_e89c43fa97c5021047dfbd0de053af7a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>x_58872_needit.needit_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-24 01:27:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e89c43fa97c5021047dfbd0de053af7a</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Needit sous menu</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_e89c43fa97c5021047dfbd0de053af7a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-24 01:31:02</sys_updated_on><title>Needit sous menu</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-111486456</payload_hash>
+        <record_name>Needit sous menu</record_name>
+        <reverted_from/>
+        <source>0d97609397b0021047dfbd0de053af65</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-24 01:31:02</sys_created_on>
+        <sys_id>bb5dc73e97c5021047dfbd0de053aff7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e6e15221b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-24 01:31:02</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>735dc73ef3c50210a49d434e84fec9f7</update_guid>
+        <update_guid_history>735dc73ef3c50210a49d434e84fec9f7:-111486456,61cc47faebc50210bb3d641db23ff485:981404101,079c87faa3c50210499e6c08c9a38755:-2068896859</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Needit sous menu">b74e8f7e97c5021047dfbd0de053afca</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-24 01:35:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>02c3039a6b254b139a9ff093e7c312d1</sys_id>
+        <sys_metadata>e89c43fa97c5021047dfbd0de053af7a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit sous menu</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_e89c43fa97c5021047dfbd0de053af7a</sys_update_name>
+        <sys_update_version display_value="sys_app_application_e89c43fa97c5021047dfbd0de053af7a">bb5dc73e97c5021047dfbd0de053aff7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-24 01:35:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
